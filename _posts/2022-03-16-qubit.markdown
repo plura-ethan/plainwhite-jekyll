@@ -4,7 +4,7 @@ title:  "WAF 대박이다!"
 date:   2022-03-16 10:00:00 +0900
 categories: OWASP MITRE 
 ---
-# OWASP TOP 10
+OWASP TOP 10
 > 종래의 웹방화벽 솔루션은 *OWASP TOP 10* 공격 위주의 탐지와 차단을 제공하므로, 고객별, 서비스별 취약점 대응에는 효과적이지 않습니다.
 
 1. 크리덴셜 스터핑
